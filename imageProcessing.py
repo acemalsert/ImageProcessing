@@ -1,7 +1,6 @@
 """
 Title: CMPE 465 HW1
 Author: Ahmet Cemal Sert
-Student Number: 43999263780
 
 """
 import cv2
