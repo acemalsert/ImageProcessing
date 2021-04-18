@@ -1,7 +1,6 @@
 """
 Title: CMPE 465 HW2
 Author: Ahmet Cemal Sert
-ID: 43999263780
 """
 
 from cv2 import cv2 
